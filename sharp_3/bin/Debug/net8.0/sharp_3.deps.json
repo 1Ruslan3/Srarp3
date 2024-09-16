@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sharp_3/1.0.0": {
+        "dependencies": {
+          "DataValidatorLibrary": "1.0.0"
+        },
+        "runtime": {
+          "sharp_3.dll": {}
+        }
+      },
+      "DataValidatorLibrary/1.0.0": {
+        "runtime": {
+          "DataValidatorLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sharp_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataValidatorLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

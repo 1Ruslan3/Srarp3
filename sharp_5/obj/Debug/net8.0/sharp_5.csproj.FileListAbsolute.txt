@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CS\sharp_5\bin\Debug\net8.0\sharp_5.exe
+C:\Users\user\source\repos\CS\sharp_5\bin\Debug\net8.0\sharp_5.deps.json
+C:\Users\user\source\repos\CS\sharp_5\bin\Debug\net8.0\sharp_5.runtimeconfig.json
+C:\Users\user\source\repos\CS\sharp_5\bin\Debug\net8.0\sharp_5.dll
+C:\Users\user\source\repos\CS\sharp_5\bin\Debug\net8.0\sharp_5.pdb
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.AssemblyInfo.cs
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.dll
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\refint\sharp_5.dll
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.pdb
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\sharp_5.genruntimeconfig.cache
+C:\Users\user\source\repos\CS\sharp_5\obj\Debug\net8.0\ref\sharp_5.dll
