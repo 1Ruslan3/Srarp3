@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9/eKflUv+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\CS\\Thread\\Thread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dryioc.dll\\5.4.3\\dryioc.dll.5.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
